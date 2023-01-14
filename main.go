@@ -20,4 +20,5 @@ func main() {
 	fmt.Println("hello hot-fix commit02")
 	fmt.Println("push commit")
 	fmt.Println("push commit2")
+	fmt.Println("push commit3")
 }
