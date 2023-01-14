@@ -21,6 +21,9 @@ func main() {
 	fmt.Println("push commit")
 	fmt.Println("push commit2")
 	fmt.Println("push commit3")
-	
+
 	fmt.Println("pull commit")
+	fmt.Println("pull2 commit")
+	fmt.Println("pull2 commit")
+	fmt.Println("pull2 commit")
 }
