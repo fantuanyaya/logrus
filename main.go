@@ -13,5 +13,7 @@ func InitFiled(logPath, appName string) {
 
 }
 func main() {
-
+	fmt.Println("hello git")
+	fmt.Println("hello git")
+	fmt.Println("hello git")
 }
