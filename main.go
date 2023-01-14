@@ -16,5 +16,5 @@ func main() {
 	fmt.Println("hello git")
 	fmt.Println("hello git")
 	fmt.Println("hello git")
-	fmt.Println("hello hot-fix")
+	fmt.Println("hello master02")
 }
